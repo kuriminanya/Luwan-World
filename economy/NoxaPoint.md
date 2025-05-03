@@ -62,7 +62,7 @@ NoxaPoint（簡稱 NP）是由 Yomi 公司設計並整合於 NoxaPay 內部的**
 ## 🔗 關聯條目
 
 - [Lyra 與 Mire 貨幣制度](./lyra_currency.md)  
-- [NoxaPay 支付平台](./noxapay.md)  
+- [NoxaPay 支付平台](./NoxaPay.md)  
 - [Yomi 公司](../organizations/yomi.md)  
 - [學生自治會與補助制度](../systems/student_government.md)  
 - [平台儲值點數制度（草案）](./noxa_token.md)  ← 如果已啟用，可補連結
