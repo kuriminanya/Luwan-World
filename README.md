@@ -93,7 +93,7 @@
 請透過正式管道與作者聯繫，取得授權同意後方可使用。
 
 意見優先在
-GitHub discussions 提供
+GitHub Discussions 提供
 
 ---
 
